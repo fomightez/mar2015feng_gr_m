@@ -18,6 +18,8 @@ The Data Scientist's Toolbox for ChIP-Seq and Beyond
 3:40am-5:30pm, March 19th, 2015. (2nd session; see `first session info
 here <http://jan2015feng-gr-m.readthedocs.org/en/latest/>`__)
 
-.. toctree:: :maxdepth: 2
+.. toctree::
+   :maxdepth: 2
 
-getting\_started going forward
+   getting_started
+   going forward
