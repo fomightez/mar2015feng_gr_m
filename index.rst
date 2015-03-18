@@ -7,13 +7,13 @@ March 2015 Feng Lab meeting
 
 The Data Scientist's Toolbox for ChIP-Seq and Beyond
 
-`Feng Lab Group meeting by Wayne in March <http://bit.ly/FengPyCode>`__.
+`Feng Lab Group meeting by Wayne in March <http://bit.ly/FengMarLM>`__.
 
-`Slides link <http://fomightez.github.io/JanFifteenth_slides/#/>`__.
+`Slides link <http://fomightez.github.io/MarNineteenth_slides/#/>`__.
 
 `A Google Doc for sharing today <http://bit.ly/FengGoogleDoc>`__
 
-`\* <http://we.tl/TYWUi1aFRf>`__
+http://we.tl/TYWUi1aFRf
 
 3:40am-5:30pm, March 19th, 2015. (2nd session; see `first session info
 here <http://jan2015feng-gr-m.readthedocs.org/en/latest/>`__)
@@ -22,4 +22,6 @@ here <http://jan2015feng-gr-m.readthedocs.org/en/latest/>`__)
    :maxdepth: 2
 
    getting_started
+   in the wild 1
+   sources
    going forward
