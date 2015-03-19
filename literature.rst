@@ -201,4 +201,3 @@ Motif identification
 
 -  `Motif-based analysis of large nucleotide data sets using
    MEME-ChIP <http://www.ncbi.nlm.nih.gov/pubmed/24853928>`__
- 
