@@ -241,8 +241,8 @@ R and ChIP-seq
 ~~~~~~~~~~~~~~
 
 -  `ChIPpeakAnno: a Bioconductor package to annotate ChIP-seq and
-   ChIP-chip data. Lihua J Zhu12\*, Claude Gazin3, Nathan D Lawson12,
-   Hervé Pagès4, Simon M Lin5, David S Lapointe6 and Michael R
+   ChIP-chip data. Lihua J Zhu, Claude Gazin, Nathan D Lawson, Hervé
+   Pagès, Simon M Lin, David S Lapointe and Michael R
    Green. <http://www.biomedcentral.com/1471-2105/11/237>`__
 
 Git and Github
