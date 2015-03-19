@@ -11,13 +11,6 @@ Look into
 -  `Practical Computing for Biologists book by Haddock and
    Dunn <http://practicalcomputing.org/>`__
 
--  `April 2013 Software Carpentry at
-   Arizona <http://2013-swc-az.readthedocs.org/en/latest/index.html>`__
-
--  `Bioinf-py <http://hplgit.github.io/bioinf-py/doc/pub/html/index.html>`__
-   At the `main site you can select your
-   form <http://hplgit.github.io/bioinf-py/doc/web/index.html>`__.
-
 -  `Interactive notebooks: Sharing the code by Helen Shen. Nature. 2014
    Nov 6;515(7525):151-2. doi: 10.1038/515151a. PMID:
    25373681 <http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261>`__
@@ -244,6 +237,8 @@ R and ChIP-seq
    ChIP-chip data. Lihua J Zhu, Claude Gazin, Nathan D Lawson, Hervé
    Pagès, Simon M Lin, David S Lapointe and Michael R
    Green. <http://www.biomedcentral.com/1471-2105/11/237>`__
+
+I need to add the other main ones I saw here still.
 
 Git and Github
 ~~~~~~~~~~~~~~
