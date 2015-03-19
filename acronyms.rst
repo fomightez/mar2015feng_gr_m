@@ -40,3 +40,7 @@ ORGANIC : high trhoughput sequencing of Occupied Regions of Genomes from
 Affinity-purified Naturally Isolated Chromatin
 
 Digenome-seq: genome-wide profiling of CRISPR-Cas9 off-target sites
+
+Bar-ChIP : chromatin immuno-precipitation followed by sequencing
+(ChIP-Seq), relying on the direct ligation of molecular barcodes to
+chromatin fragments
