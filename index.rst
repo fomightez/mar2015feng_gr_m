@@ -22,6 +22,12 @@ here <http://jan2015feng-gr-m.readthedocs.org/en/latest/>`__)
    :maxdepth: 2
 
    getting_started
+   today
    in the wild 1
+   in the wild 2
+   in the wild 3
+   in the wild 4
    sources
    going forward
+   literature
+   acronyms
