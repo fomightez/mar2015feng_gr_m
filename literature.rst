@@ -5,6 +5,9 @@
 Literature Selections for ChIP-seq
 ----------------------------------
 
+ChIP-Seq
+~~~~~~~~
+
 -`Lefrançois P1, Euskirchen GM, Auerbach RK, Rozowsky J, Gibson T,
 Yellman CM, Gerstein M, Snyder M. Efficient yeast ChIP-Seq using
 multiplex short-read DNA sequencing. BMC Genomics. 2009 Jan 21;10:37.
@@ -159,14 +162,14 @@ Bias issues
     identified binding sites, that are not biased toward accessible
     chromatin and that do not require input normalization.
 
-ChIA- PET
-~~~~~~~~~
+Related
+~~~~~~~
 
-`Genome-wide map of regulatory interactions in the human genome. Heidari
-N, Phanstiel DH, He C, Grubert F, Jahanbani F, Kasowski M, Zhang MQ,
-Snyder MP. Genome Res. 2014 Dec;24(12):1905-17. doi:
-10.1101/gr.176586.114. Epub 2014 Sep 16. PMID:
-25228660 <http://www.ncbi.nlm.nih.gov/pubmed/25228660>`__
+-  ChIA- PET - `Genome-wide map of regulatory interactions in the human
+   genome. Heidari N, Phanstiel DH, He C, Grubert F, Jahanbani F,
+   Kasowski M, Zhang MQ, Snyder MP. Genome Res. 2014 Dec;24(12):1905-17.
+   doi: 10.1101/gr.176586.114. Epub 2014 Sep 16. PMID:
+   25228660 <http://www.ncbi.nlm.nih.gov/pubmed/25228660>`__
 
 Motif identification
 ~~~~~~~~~~~~~~~~~~~~
