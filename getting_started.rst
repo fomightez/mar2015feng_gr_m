@@ -21,10 +21,9 @@ Preparation
 6;515(7525):151-2. doi: 10.1038/515151a. PMID:
 25373681 <http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261>`__
 
-UPDATE: now I'd probably add `Programming: Pick up Python by Jeffrey M.
-Perkel. Nature. 2015 February 5;518:125–6.doi:10.1038/518125a.
-PMID:25653001 <http://www.nature.com/news/programming-pick-up-python-1.16833>`__
-too
+`Programming tools: Adventures with R by Sylvia Tippmann. Nature. 2015
+Jan 1;517(7532):109-10. doi: 10.1038/517109a. PMID:
+25557714 <http://www.nature.com/news/programming-tools-adventures-with-r-1.16609>`__
 
 **Tech prep**
 
