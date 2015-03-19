@@ -164,8 +164,9 @@ ChIP-seq data analysis
    Workshops <http://ged.msu.edu/angus/>`__, most recent is [Next-Gen
    Sequence Analysis Workshop
    (2014)(http://angus.readthedocs.org/en/2014/) Particularly pertinent
-   are the sections `Day 7: ChIP-seq: Peak Predictions and
-   Cis-regulatory Element
+   are the sections `Istvan Albert's 2012 ChIP-Seq
+   lecture <http://ged.msu.edu/angus/tutorials-2012/day5.html>`__, `Day
+   7: ChIP-seq: Peak Predictions and Cis-regulatory Element
    Annotations <http://ged.msu.edu/angus/tutorials-2011/day7.html>`__,
    `Using MEME to identify TF binding motif from ChIP-seq
    data <http://ged.msu.edu/angus/tutorials/chipseq-motif-finding.html>`__
