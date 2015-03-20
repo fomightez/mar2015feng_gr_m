@@ -8,11 +8,11 @@ Literature Selections for ChIP-seq
 ChIP-Seq
 ~~~~~~~~
 
--`Lefrançois P1, Euskirchen GM, Auerbach RK, Rozowsky J, Gibson T,
-Yellman CM, Gerstein M, Snyder M. Efficient yeast ChIP-Seq using
-multiplex short-read DNA sequencing. BMC Genomics. 2009 Jan 21;10:37.
-doi:
-10.1186/1471-2164-10-37. <http://www.ncbi.nlm.nih.gov/pubmed/19159457>`__
+-  `Lefrançois P1, Euskirchen GM, Auerbach RK, Rozowsky J, Gibson T,
+   Yellman CM, Gerstein M, Snyder M. Efficient yeast ChIP-Seq using
+   multiplex short-read DNA sequencing. BMC Genomics. 2009 Jan 21;10:37.
+   doi:
+   10.1186/1471-2164-10-37. <http://www.ncbi.nlm.nih.gov/pubmed/19159457>`__
 
     We used this method to map the binding sites for Cse4, Ste12 and Pol
     II throughout the yeast genome and we found 148 binding targets for
