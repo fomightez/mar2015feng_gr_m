@@ -45,6 +45,10 @@ Look into
    PMID:25653001 <http://www.nature.com/news/programming-pick-up-python-1.16833>`__
    too
 
+-  `March 2015 blog post suggesting mandatory primer courses for basic skills
+   for students in cellular & molecular biology, genetics, and related
+   subfields <http://toddharris.net/blog/2015/03/23/its-time-to-reboot-bioinformatics-education/>`__
+
 -  `A History of Bioinformatics (in the Year 2039), a presentation by
    Titus Brown encouraging good data practices in his unique
    way <https://www.youtube.com/watch?v=uwsjwMO-TEA>`__
