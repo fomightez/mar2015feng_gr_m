@@ -52,6 +52,11 @@ ChIP-Seq
    PLoS Comput Biol 9(11): e1003326.
    doi:10.1371/journal.pcbi.1003326 <http://www.ncbi.nlm.nih.gov/pubmed/24244136>`__
 
+-  `ChIP-Seq: technical considerations for obtaining high-quality data.
+   Kidder BL, Hu G, Zhao K. Nat Immunol. 2011 Sep 20;12(10):918-22. doi:
+   10.1038/ni.2117. PMID:
+   21934668 <http://www.ncbi.nlm.nih.gov/pubmed/21934668>`__
+
 -  `Integrative analysis of public ChIP-seq experiments reveals a
    complex multi-cell regulatory landscape. Nucleic Acids Res. 2015 Feb
    27;43(4):e27. doi: 10.1093/nar/gku1280. Epub 2014 Dec 3. Griffon A,
