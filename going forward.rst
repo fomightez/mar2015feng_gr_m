@@ -45,8 +45,9 @@ Look into
    PMID:25653001 <http://www.nature.com/news/programming-pick-up-python-1.16833>`__
    too
 
--  `March 2015 blog post suggesting mandatory primer courses for basic skills
-   for students in cellular & molecular biology, genetics, and related
+-  `March 2015 blog post suggesting mandatory primer courses for basic
+   skills for students in cellular & molecular biology, genetics, and
+   related
    subfields <http://toddharris.net/blog/2015/03/23/its-time-to-reboot-bioinformatics-education/>`__
 
 -  `A History of Bioinformatics (in the Year 2039), a presentation by
@@ -157,6 +158,9 @@ Learning R
    I <https://www.coursera.org/course/bioinfomethods1>`__ and
    `Bioinformatic Methods
    II <https://www.coursera.org/course/bioinfomethods2>`__
+
+-  `Comparing Python and R for Data
+   Science <http://blog.dominodatalab.com/comparing-python-and-r-for-data-science/>`__
 
 -  `How to Transition from Excel to R: An Intro to R for Microsoft Excel
    Users <http://districtdatalabs.silvrback.com/intro-to-r-for-microsoft-excel-users>`__
