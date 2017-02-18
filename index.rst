@@ -16,7 +16,7 @@ The Data Scientist's Toolbox for ChIP-Seq and Beyond
 http://we.tl/TYWUi1aFRf
 
 3:40am-5:30pm, March 19th, 2015. (2nd session; see `first session info
-here <http://jan2015feng-gr-m.readthedocs.org/en/latest/>`__)
+here <http://jan2015feng-gr-m.readthedocs.org/en/latest/>`__; next session `hands-on here <http://fenglabwkshopmay2015.readthedocs.io/en/latest/>`)
 
 .. toctree::
    :maxdepth: 2
